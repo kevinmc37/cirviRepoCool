@@ -8,3 +8,4 @@
 
 echo "proves de modificacio";
 echo "rgirghrigrhgr";
+echo "canvi Toni des de NetBeans!";
